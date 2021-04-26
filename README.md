@@ -6,14 +6,54 @@
 </details>
 
 ### Skill Stack
+<table>
+	<tr>
+		<td  align="center">
+			<img src="https://user-images.githubusercontent.com/48902155/116059784-2df49c00-a6bc-11eb-8633-cbbc41f0ae32.png">
+			<img src="https://user-images.githubusercontent.com/48902155/116058251-9b9fc880-a6ba-11eb-9521-df9aaac3baaf.png">
+		</td>
+		<td>
+			<ul>
+				<li><b>C/C++</b></li>
+				<ul>
+					<li>주 사용 개발환경 : Visual Studio, Visual Studio Code</li>
+					<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
+					<li>관련 경험이 있으며, 때때로 인터넷 검색 혹은 책을 참고하여 문제를 해결함</li>
+				</ul>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src=""></td>
+		<td>
+			<ul>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src=""></td>
+		<td>
+			<ul>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src=""></td>
+		<td>
+			<ul>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src=""></td>
+		<td>
+			<ul>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 <ul>
-  <li><b>C/C++</b></li>
-  <ul>
-    <li>주 사용 개발환경 : Visual Studio, Visual Studio Code</li>
-    <li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-    <li>관련 경험이 있으며, 때때로 인터넷 검색 혹은 책을 참고하여 문제를 해결함</li>
-  </ul>
-  <br>
   <li><b>C#</b></li>
   <ul>
     <li>주 사용 개발환경 : Unity</li>
