@@ -1,8 +1,8 @@
-### 안녕하세요, 성장하는 개발자 이혜원입니다. 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello!%20I'm%20HyeWoun&fontSize=90" />
 
-### Skill Stack
+## Skill Stack
 <details open>
-	<summary align="right"><b>열기/닫기</b></summary>
+	<summary><span style="font-size: 100pt;">Language</span></summary>
 	<table>
 		<tr>
 			<td  align="center" width="130">
