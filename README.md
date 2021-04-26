@@ -2,7 +2,7 @@
 
 ### Skill Stack
 <details open>
-	<summary><b>열기/닫기</b></summary>
+	<summary align="right"><b>열기/닫기</b></summary>
 	<table>
 		<tr>
 			<td  align="center" width="130">
@@ -73,56 +73,60 @@
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td colspan="2">
+				<details>
+					<summary align="right"><b>Skill level 설명</b></summary>
+					<table border="1" align="right">
+						<tr>
+							<td colspan = "2">level</td>
+							<td>detail</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>Expert</td>
+							<td>
+								- 매우 유능하며 경험이 풍부한 전문가<br>
+								- 업무 수행에 도움이 필요 없으며, 다른 사람을 리드하고 교육할 수 있음
+							</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>Proficient</td>
+							<td>
+								- 관련 경험이 풍부한 숙련자<br>
+								- 업무 수행에 도움이 거의 필요 없음
+							</td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>Experienced</td>
+							<td>
+								- 관련 경험이 있으며, 때때로 도움이 필요함<br>
+								- 기초적인 수준에서 업무 수행 가능
+							</td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>Learning</td>
+							<td>
+								- 관련 능력/지식이 제한적이며, 배우고 있는 단계<br>
+								- 실무 경험이 미흡
+							</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>None/Low</td>
+							<td>
+								- 관련 경험이 없거나 거의 없음<br>
+								- 업무 수행 불가
+							</td>
+						</tr>
+					</table>
+				</details>
+			</td>
+		</tr>
 	</table>
-	<details>
-		<summary align="right"><b>Skill level 설명</b></summary>
-		<table border="1" align="right">
-			<tr>
-				<td colspan = "2">level</td>
-				<td>detail</td>
-			</tr>
-			<tr>
-				<td>5</td>
-				<td>Expert</td>
-				<td>
-					- 매우 유능하며 경험이 풍부한 전문가<br>
-					- 업무 수행에 도움이 필요 없으며, 다른 사람을 리드하고 교육할 수 있음
-				</td>
-			</tr>
-			<tr>
-				<td>4</td>
-				<td>Proficient</td>
-				<td>
-					- 관련 경험이 풍부한 숙련자<br>
-					- 업무 수행에 도움이 거의 필요 없음
-				</td>
-			</tr>
-			<tr>
-				<td>3</td>
-				<td>Experienced</td>
-				<td>
-					- 관련 경험이 있으며, 때때로 도움이 필요함<br>
-					- 기초적인 수준에서 업무 수행 가능
-				</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>Learning</td>
-				<td>
-					- 관련 능력/지식이 제한적이며, 배우고 있는 단계<br>
-					- 실무 경험이 미흡
-				</td>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>None/Low</td>
-				<td>
-					- 관련 경험이 없거나 거의 없음<br>
-					- 업무 수행 불가
-				</td>
-			</tr>
-		</table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	</details>
 </details>
 <br><br><br><br>
 
