@@ -1,11 +1,9 @@
 ### 안녕하세요, 성장하는 개발자 이혜원입니다. 
-<details>
+<details align="right">
 <summary> <b>Contact</b></summary>
   📧 silro812@naver.com <br>
-  🍀 <a href="https://blog.naver.com/silro812">Naver Blog</a><br>
+  🍀 <a href="https://blog.naver.com/silro812">Naver Blog 바로가기</a><br>
 </details>
-<br><br>
-
 
 ### Skill Stack
 <ul>
