@@ -1,3 +1,4 @@
+<!-- 참고: https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=350&section=header&fontSize=80&text=Hello!%20I'm%20HyeWoun&animation=twinkling" />
 
 ## Skill Stack
@@ -139,3 +140,6 @@
 	🍀 <a href="https://blog.naver.com/silro812">Naver Blog 바로가기</a><br>
 </details>
 
+
+
+<!-- 참고: [매력적인 깃허브 프로필을 만들어보아요] https://butter-shower.tistory.com/142 -->
