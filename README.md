@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello!%20I'm%20HyeWoun&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=350&section=header&fontSize=80&text=Hello!%20I'm%20HyeWoun&animation=twinkling" />
 
 ## Skill Stack
 <details open>
