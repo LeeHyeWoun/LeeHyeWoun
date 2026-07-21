@@ -1,145 +1,227 @@
-<!-- 참고: https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=350&section=header&fontSize=80&text=Hello!%20I'm%20HyeWoun&animation=twinkling" />
+> [!NOTE]
+> 네이버 블로그 글은 일반적으로 구글 검색에 노출되게 해보려는 작업입니다.
 
-## Skill Stack
-<details open>
-	<summary><span style="font-size: 100pt;">Language</span></summary>
-	<table>
-		<tr>
-			<td  align="center" width="130">
-				<img src="https://user-images.githubusercontent.com/48902155/116059784-2df49c00-a6bc-11eb-8633-cbbc41f0ae32.png">
-				<img src="https://user-images.githubusercontent.com/48902155/116058251-9b9fc880-a6ba-11eb-9521-df9aaac3baaf.png">
-			</td>
-			<td>
-				<ul>
-					<li><b>C/C++</b></li>
-					<ul>
-						<li>주 사용 개발환경 : Visual Studio, Visual Studio Code</li>
-						<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-						<li>관련 경험이 있으며, 때때로 인터넷 검색 혹은 책을 참고하여 문제를 해결함</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td align="center"><img src="https://user-images.githubusercontent.com/48902155/116063902-7746ea80-a6c0-11eb-86b9-3a6d67856a48.png"></td>
-			<td>
-				<ul>
-					<li><b>C#</b></li>
-					<ul>
-						<li>주 사용 개발환경 : Unity</li>
-						<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-						<li>관련 경험이 있으며, 때때로 관련 라이브러리 API를 확인하거나 스택오버플로우와 깃허브 등의 다른 개발자들의 문제 해결 방식을 참고함. 해당 언어로 게임을 제작한 경험이 있으며 이는 <a href="https://play.google.com/store/apps/details?id=com.CheonJiGaeByeok.Prearth">플레이스토어에 출시</a>됨.</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td align="center"><img src="https://user-images.githubusercontent.com/48902155/116064028-95ace600-a6c0-11eb-9089-7d22cba22474.png"></td>
-			<td>
-				<ul>
-					<li><b>Java</b></li>
-					<ul>
-						<li>주 사용 개발환경 : Android studio, Eclipse</li>
-						<li>주 사용 버전 : se 8</li>
-						<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-						<li>관련 경험이 있으며, 때때로 관련 라이브러리 API를 확인하거나 스택오버플로우와 깃허브 등의 다른 개발자들의 문제 해결 방식을 참고함</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td align="center"><img src="https://user-images.githubusercontent.com/48902155/116068210-f3dbc800-a6c4-11eb-9e1b-262efa851962.png"></td>
-			<td>
-				<ul>
-					<li><b>Java Servlet</b></li>
-					<ul>
-						<li>주 사용 개발환경 : Visual Studio, Visual Studio Code</li>
-						<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-						<li>인턴 활동을 통해 jetty web server에 동적 웹페이지 처리를 위한 servlet 컨테이너를 설정하고 servlet으로 웹상 파일 업로드/다운로드 구현한 경험이 있음</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td align="center"><img src="https://user-images.githubusercontent.com/48902155/116064377-eae8f780-a6c0-11eb-896f-3c44cc7d3c2e.png"></td>
-			<td>
-				<ul>
-					<li><b>Python</b></li>
-					<ul>
-						<li>주 사용 개발환경 : Jupyter Notebook</li>
-						<li>skill level 3 : 기초적인 수준에서 업무 수행 가능</li>
-						<li>pandas와 matplotlib 라이브러리를 이용해 데이터를 분석/시각화할 때 주로 활용함. 해당 언어를 활용해 가벼운 머신러닝을 구현해본 경험이 있음</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<details>
-					<summary align="right"><b>Skill level 설명</b></summary>
-					<table border="1" align="right">
-						<tr>
-							<td colspan = "2">level</td>
-							<td>detail</td>
-						</tr>
-						<tr>
-							<td>5</td>
-							<td>Expert</td>
-							<td>
-								- 매우 유능하며 경험이 풍부한 전문가<br>
-								- 업무 수행에 도움이 필요 없으며, 다른 사람을 리드하고 교육할 수 있음
-							</td>
-						</tr>
-						<tr>
-							<td>4</td>
-							<td>Proficient</td>
-							<td>
-								- 관련 경험이 풍부한 숙련자<br>
-								- 업무 수행에 도움이 거의 필요 없음
-							</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>Experienced</td>
-							<td>
-								- 관련 경험이 있으며, 때때로 도움이 필요함<br>
-								- 기초적인 수준에서 업무 수행 가능
-							</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Learning</td>
-							<td>
-								- 관련 능력/지식이 제한적이며, 배우고 있는 단계<br>
-								- 실무 경험이 미흡
-							</td>
-						</tr>
-						<tr>
-							<td>1</td>
-							<td>None/Low</td>
-							<td>
-								- 관련 경험이 없거나 거의 없음<br>
-								- 업무 수행 불가
-							</td>
-						</tr>
-					</table>
-				</details>
-			</td>
-		</tr>
-	</table>
-</details>
-<br><br><br><br>
+<br/><br/>
+
+# 카테고리: 살려고 운동함
+
+[샤인 휘트니스 미사역점] 김남형(K) 트레이너님 OT 기록: "재활 PT 30회차 시작합니다."
+https://m.blog.naver.com/silro812/224341519966
+
+건강일기#2. 다시 운동 루틴을 만들어보려고 합니다
+https://m.blog.naver.com/silro812/224339450817
+
+운동 4개월차 허리 둘레 감소
+https://m.blog.naver.com/silro812/223431368703
+
+건강일기#1. 운동을 시작했습니다! 🏃🏻‍♀️
+https://m.blog.naver.com/silro812/223431304571
 
 
+# 카테고리: 제대로 먹자
+
+뚝섬역/서울숲역/성수동 직장인 점심 추천, [성수라] 한식(김치찜) 내돈내산 후기
+https://m.blog.naver.com/silro812/224286654809
+
+뚝섬역/서울숲역/성수동 직장인 점심 추천, [백소정 뚝섬역점] 돈카츠 내돈내산 후기
+https://m.blog.naver.com/silro812/224276682656
+
+뚝섬역/서울숲역/성수동 직장인 점심 추천, [우일뭉티기 두번째이야기] 샤브샤브 내돈내산 후기
+https://m.blog.naver.com/silro812/224270520719
+
+뚝섬역/서울숲역/성수동 직장인 저녁 추천, [고집132 성수본점] 숙성 돼지고기 회식 후기
+https://m.blog.naver.com/silro812/224270389273
+
+뚝섬역/서울숲역/성수동 직장인 점심 추천, [소바마에] 소바 내돈내산 후기
+https://m.blog.naver.com/silro812/224270163150
+
+뚝섬역/서울숲역/성수동 직장인 점심 추천, [소코아 뚝섬역점] 카레와 카츠 내돈내산 후기
+https://m.blog.naver.com/silro812/224268198052
 
 
-<details align="right">
-	<summary> <b>Contact</b></summary>
-	📧 silro812@naver.com <br>
-	🍀 <a href="https://blog.naver.com/silro812">Naver Blog 바로가기</a><br>
-</details>
+# 카테고리: 멋쟁이가 되고 싶어
+
+[카카오톡 테마] 오브님의 '시골 가나디의 하루' 추천
+https://m.blog.naver.com/silro812/223456954927
+
+[노멜렛_Nomelet] 코트 및 데님 구매 후기
+https://m.blog.naver.com/silro812/223444287668
+
+[화접몽 한의원 강남본점] 여드름흉터 치료 후기 (리셀테라피)
+https://m.blog.naver.com/silro812/223441191246
+
+갤럭시 S10e 후기 : 드디어 바꿨다ㅠㅠ
+https://m.blog.naver.com/silro812/221665111913
 
 
+# 카테고리: 지본주의 살아남기
 
-<!-- 참고: [매력적인 깃허브 프로필을 만들어보아요] https://butter-shower.tistory.com/142 -->
+시디즈 아이블(IBLE) 의자 좌판과 등판 교체 AS 후기
+https://m.blog.naver.com/silro812/224352358954
+
+당근마켓 성공적 거래 후기
+https://m.blog.naver.com/silro812/223444719047
+
+
+# 카테고리: 나를 알아가는 중
+
+한달 휴가, 이럴때 여행을 안가면 바보라지? 가보자고 유럽!
+https://m.blog.naver.com/silro812/223592475781
+
+만다라트 계획표로 2024년 목표 세우기
+https://m.blog.naver.com/silro812/223437541992
+
+[리랙셔리 신당점] 퍼스널컬러 진단 후기 - '겨울 소프트 (vp톤)'
+https://m.blog.naver.com/silro812/223433784883
+
+문의 시 참고해주세요.
+https://m.blog.naver.com/silro812/222235951805
+
+비전을 행동으로 실천하기
+https://m.blog.naver.com/silro812/221538911160
+
+물 마시기 습관 실천
+https://m.blog.naver.com/silro812/221527752806
+
+플래너(weekly planner)로 주간 계획 세우기
+https://m.blog.naver.com/silro812/221525375447
+
+MBTI 성격 유형 검사 (INTJ), 친구들은 어떤 유형일까?
+https://m.blog.naver.com/silro812/221518730163
+
+
+# 카테고리: 대학 기록
+
+[HTML] 블로그 미니 위젯 모음 만들기
+https://m.blog.naver.com/silro812/223437990666
+
+PRE:ARTH 개인정보취급방침
+https://m.blog.naver.com/silro812/222071755467
+
+[servlet/java] 파일 다운로드 구현(+취약점 보완)
+https://m.blog.naver.com/silro812/221615433658
+
+[servlet/java] 파일 업로드 (cos 라이브러리의MultipartRequest, maven)
+https://m.blog.naver.com/silro812/221614192928
+
+[인턴] 칸반보드(kanbanboad)
+https://m.blog.naver.com/silro812/221602469572
+
+[인턴] 랜선 만들기
+https://m.blog.naver.com/silro812/221590083982
+
+2차 기회 페이지 교체 알고리즘 [과제 : 구현하기]
+https://m.blog.naver.com/silro812/221578589030
+
+CPU 스케쥴링 알고리즘 : FCFS, SJF, HRN, RR, SRT [과제 : 구현하기]
+https://m.blog.naver.com/silro812/221567674463
+
+디지털미디어학과 2019 졸업전시 다녀온 후기
+https://m.blog.naver.com/silro812/221556769169
+
+[바롬3] 아이스팩,다시 생각해조
+https://m.blog.naver.com/silro812/221551835971
+
+안랩(AhnLab) 기업 방문
+https://m.blog.naver.com/silro812/221549157784
+
+[JSP] 지시자와 액션 태그
+https://m.blog.naver.com/silro812/221548416255
+
+[JSP] include 지시자/ 액션태그 차이점
+https://m.blog.naver.com/silro812/221544320261
+
+서울여대 굿즈
+https://m.blog.naver.com/silro812/221542083593
+
+MySQL 비밀번호 변경 (version 8.0이상)
+https://m.blog.naver.com/silro812/221533140561
+
+유니티(Unity) AR : Vuforia(Cylinder Target)로 앱 만들기
+https://m.blog.naver.com/silro812/221530679768
+
+[JSP] JSP의 동작 구조 (JSP파일의 변환, JSP의 생명주기)
+https://m.blog.naver.com/silro812/221528382965
+
+JSP와 Servlet
+https://m.blog.naver.com/silro812/221529501230
+
+[JSP] 스크립트 요소(%!, %, %=, %--), 소스보기
+https://m.blog.naver.com/silro812/221528381904
+
+이클립스(eclipse) : web설정, 포트 충돌 해결
+https://m.blog.naver.com/silro812/221528374252
+
+학교냥이한테 찜꽁당했다!
+https://m.blog.naver.com/silro812/221527918778
+
+운영체제(Operating System)
+https://m.blog.naver.com/silro812/221526722787
+
+[HTML] 폼 형식 태그 정리 : Form(+ get/post), Input, Textarea, Select, Option
+https://m.blog.naver.com/silro812/221526526377
+
+웹프로그래밍의 이해 (웹페이지의 동작 원리)
+https://m.blog.naver.com/silro812/221523553372
+
+[HTML] Frameset태그, Frame 태그
+https://m.blog.naver.com/silro812/221521009431
+
+[HTML] 표를 만들기 : Table 태그
+https://m.blog.naver.com/silro812/221521006296
+
+HTML 기본 구조와 태그 사용 규칙
+https://m.blog.naver.com/silro812/221521003351
+
+문서의 URL (절대경로와 상대경로)
+https://m.blog.naver.com/silro812/221520901368
+
+중간고사의 계절
+https://m.blog.naver.com/silro812/221518752821
+
+드론 코딩 경진 대회(엔트리 블록 코딩)
+https://m.blog.naver.com/silro812/221516307594
+
+Xcode 객체 생성과 Outlet, Action 그리고 객체와의 연결 (swift)
+https://m.blog.naver.com/silro812/221508418733
+
+Xcode 시작하기
+https://m.blog.naver.com/silro812/221502006737
+
+핸드폰에 이메일 계정 추가하기 (+삭제하기)
+https://m.blog.naver.com/silro812/221500720930
+
+로봇이 커피를 만들어주는 로봇카페, 비트 커피(b;eat) by dal.komm
+https://m.blog.naver.com/silro812/221496453688
+
+스택(Stack)과 큐(Queue)
+https://m.blog.naver.com/silro812/221495169539
+
+자료구조_정렬 과정의 일부를 보고 정렬 알고리즘 맞추기
+https://m.blog.naver.com/silro812/221494272487
+
+Tomcat 설치하기
+https://m.blog.naver.com/silro812/221493757765
+
+모션그래픽_치킨 찬양 (+ 음으로 음악찾기)
+https://m.blog.naver.com/silro812/221492444306
+
+유니티로 만든 AR Paint
+https://m.blog.naver.com/silro812/221492051155
+
+Java 개발을 위한 JDK 다운로드 방법(+구 버전 다운)
+https://m.blog.naver.com/silro812/221492029809
+
+유니티 구버전 다운받는 방법
+https://m.blog.naver.com/silro812/221491426977
+
+유니티 설치 및 환경설정
+https://m.blog.naver.com/silro812/221491414522
+
+
+# 카테고리: Log
+
+2019년 네이버 웹툰 만우절 (당근을 찾아라 월요일 웹툰 All clear)🥕🥕🥕
+https://m.blog.naver.com/silro812/221502664983
+
+
